@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning learning **OOP with java**
+- 🌱 I’m currently learning  **OOP with java**
 
 - 🤝I'm an Undergraduate at **SLIIT**
 
